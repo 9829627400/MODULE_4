@@ -1,0 +1,28 @@
+      What is OOP ?
+ 
+   -  Object-oriented programming (OOP) is a computer programming model that organizes software design around data, or objects, rather
+       than functions and logic.An object can be defined as a data field that has unique attributes and behavior.
+
+
+      List OOP concepts 
+   
+      Class - Classes are user-defined data types that act as the blueprint for individual objects, attributes and methods.
+
+
+     Object- Objects are instances of a class created with specifically defined data. Objects can correspond to real-world objects or an abstract entity.
+                When class is defined initially, the description is the only object that is defined.
+
+
+
+     * What is the difference between OOP and POP? 
+
+
+      Object-Oriented Programming (OOP)  
+
+      - OOP treats data as a critical element in the program development and does not allow it to flow freely around the system.
+      - The data of an object can be accessed only by the function associated with that object. However, function of one object can access the function of other objects.
+
+     
+       Procedural Oriented Programming (POP)
+       - In the procedure oriented approach, large programs are divided into smaller programs known as functions.
+      -  In a multi-function program, many important data items are placed as global so that they may be accessed by all the functions. Each function may have its own local data.
